@@ -2,7 +2,7 @@
 
 I'm a data scientist, researcher, educator, and dad.
 
-You can learn more about me on my [personal website](https://www.ericekholm.com/). When I have time, I [blog](https://www.ericekholm.com/blog.html) there -- mostly about data and coding stuff. You can also check out my [personal notes site](https://leakybrain.ericekholm.com/) if you want to follow along with some of the things I'm learning.
+You can learn more about me on my [personal website](https://www.ericekholm.com/). When I have time, I [blog](https://www.ericekholm.com/blog.html) there -- mostly about data and coding stuff. You can also check out my [personal notes site](https://ekholme.github.io/brain/) if you want to follow along with some of the things I'm learning.
 
 ## Tech Stack
 
